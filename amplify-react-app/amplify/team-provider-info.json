@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifyreactapp12187841": {}
+      },
+      "api": {
+        "songAPI": {}
       }
     }
   }
